@@ -21,9 +21,10 @@ O objetivo é desenvolver uma ferramenta no **Excel** que ajude a organizar e re
 ---
 
 ## 🛠️ Como usar
-1. Baixe o arquivo Excel na pasta `/excel`.  
+1. [Baixe o arquivo Excel](excel/Excel%20com%20IA%20-%20Imposto%20de%20Renda.xlsx) na raiz do repositório.  
 2. Abra no **Microsoft Excel**.  
 3. Utilize os menus e validações para organizar suas informações de imposto de renda.  
+  
 
 ---
 
